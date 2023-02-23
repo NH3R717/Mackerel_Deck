@@ -9,7 +9,7 @@
 
 ## Problem
 
-### Refrigerant used to supply the FCU is a liquid @ approx. -35F is at a constant rate which creates coil blocking ice within less than 10 minutes. This condition restricts air flow and cooling ability. No form of active defrost is available/installed.
+### Refrigerant used to supply the FCU is a liquid @ approx. -35F at a constant rate which creates coil blocking ice within less than 10 minutes of operation. This condition restricts air flow and cooling ability. No form of active defrost is available/installed.
 
 ## Solution
 
