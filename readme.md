@@ -1,6 +1,6 @@
-# Mackerel Deck (Project Name)
+# Project – "Mackerel Deck"
 
-## A PLC Program Written in Ladder Logic for the Allen-Bradley / Rockwell Automation Platform
+## A PLC Program and Corresponding HMI Mockup Written in Ladder Logic for the Allen-Bradley / Rockwell Automation Platform
 
 ![HMI](https://github.com/NH3R717/Mackerel_Deck/blob/7465bdef17d5803bb689ffb2c7ee5f94d6336661/Assets/Mackerel%20HMI.png?raw=true)
 ![PLC](https://github.com/NH3R717/Mackerel_Deck/blob/master/Assets/Mackerel_Deck_Screen_1.png?raw=true)
