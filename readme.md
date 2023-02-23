@@ -2,6 +2,9 @@
 
 ## A PLC Program Written in Ladder Logic for the Allen-Bradley / Rockwell Automation Platform
 
+![HMI](https://flic.kr/p/2oiriEh)
+![PLC](https://flic.kr/p/2oimtPx)
+
 ### This software is intended to control the functionality of a fan coil unit (FCU) providing air condition to a occupied space used for food processing.
 
 ## Problem
