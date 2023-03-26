@@ -3,7 +3,7 @@
 ## An HMI Mockup and Corresponding PLC Program Written in Ladder Logic for the Allen-Bradley / Rockwell Automation Platform
 
 ![HMI](https://github.com/NH3R717/Mackerel_Deck/blob/7465bdef17d5803bb689ffb2c7ee5f94d6336661/Assets/Mackerel%20HMI.png?raw=true)
-![PLC](https://github.com/NH3R717/Mackerel_Deck/blob/master/Assets/Mackerel_Deck_Screen_1.png?raw=true)
+![PLC](https://github.com/NH3R717/Mackerel_Deck/blob/d67ed124dcaba8a883d179c7d2b1ddb29db7c5c6/Assets/Mackerel_Deck_LAD_2.png?raw=true)
 
 ### This software is intended to control the functionality of a fan coil unit (FCU) providing air condition to a occupied space used for food processing.
 
