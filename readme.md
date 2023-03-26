@@ -18,7 +18,7 @@
 
 ## Solution
 
-### Add functionality to the FCU's PLC program that allows the refrigerant supply solenoid valve to cycle open/close at settable intervals (while the FCU's fans continue to run) only permitting refrigerant flow for sort durations – preventing ice build-up. Anticipated effective cycle time – approx. 3 minutes on / 9 minutes off.
+### Add functionality to the FCU's PLC program that allows the refrigerant supply solenoid valve to cycle open/close at settable intervals (while the FCU's fans continue to run) only permitting refrigerant flow for sort durations – preventing ice build-up. Anticipated effective cycle time – approx. 3 minutes on / 12 minutes off.
 
 ## Mockup Link
 
