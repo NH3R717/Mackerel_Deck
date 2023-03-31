@@ -14,7 +14,7 @@
 
 ## Problem
 
-### Refrigerant used to supply the FCU is a liquid @ approx. -35F at a constant rate which creates coil blocking ice within less than 10 minutes of operation. This condition restricts air flow and cooling ability. No form of active defrost is available/installed.
+### Liquid sub-cooled (-40˚F) refrigerant is supplied to the FCU evaporator via a pump at 45psi. This limits the total evaporator pressure to about 40psi via a back pressure regulator with a corresponding temperature of 25˚F and causes rapid FCU ice-up. No defrost functionality is installed.
 
 ## Solution
 
